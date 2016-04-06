@@ -1,0 +1,25 @@
+    
+body {
+	background-color: black;
+}
+
+.titulo {
+	color: white;
+	padding:30px;
+} 
+
+.titulo2 {
+	color: white;
+	text-align: center;
+} 
+.video{
+	text-align: center;
+}   
+
+.section {
+    text-align: justify;
+    color: silver;
+    width:700px;
+    padding:30px;	 	
+    border:3px solid #73AD21; 
+}   
